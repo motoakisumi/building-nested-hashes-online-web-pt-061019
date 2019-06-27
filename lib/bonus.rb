@@ -24,7 +24,7 @@ def bonus
 
   hash = {first: "first value!", second: "second value!"}
    
-  hash[:first]
+  hash[:second]
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
   epic_tragedy
